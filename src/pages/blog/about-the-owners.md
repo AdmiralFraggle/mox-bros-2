@@ -6,10 +6,10 @@ image: "https://www.sommerlawn.com/assets/bros.02e09cf0_Z230w3z.png"
 category: "Company History"
 author: "Cayden Moxley"
 layout: "@layouts/BlogLayout.astro"
-tags: [Information, Owners, Management, Company]
+tags: [ Owners, Management, Company]
 ---
 # About the Moxley Brothers
-The Moxley brothers have always been an entrepreneurialm leaning. From the time when they were very young they had a few ventures. Some of these include, MoxBros lemonade stand, Moxbros legos, Moxboards longboard reviews, MoxBros snow removal, and [Sommer Lawn & Landscape](https://sommerlawn.com). 
+The Moxley brothers have always had an entrepreneurial leaning. From the time they were very young they had a few ventures. Some of these include, MoxBros lemonade stand, Moxbros legos, Moxboards longboard reviews, MoxBros snow removal, and [Sommer Lawn & Landscape](https://sommerlawn.com). 
 <br>
 <img src="https://www.sommerlawn.com/assets/family.cb5f66c0_293G3m.png" alt="drawing" width="800"/>
 
@@ -22,7 +22,7 @@ Cayden is the main decision maker of the operation. He loves to empower his youn
 #### Co-owner & Head of Sales
 <img src="https://www.sommerlawn.com/assets/spencer.475ca811_Pacqf.png" alt="drawing" width="200"/>
 
-Spencer has always had a nack for sales and negotiation. He is brilliant, smart, and does not go along with the crowd. Spencer has also always taken a liking to engineering. A few years ago he bought a 3d printer and used it to print custom name plates and all sorts of things for his classmates. 
+Spencer has always had a nack for sales and negotiation. He is brilliant, clever, and does not go along with the crowd. Spencer has also always taken a liking to engineering. A few years ago he bought a 3D printer and used it to print custom name plates and all sorts of things for his classmates. 
 
 ## Jett:
 #### Co-owner & Head of Production
