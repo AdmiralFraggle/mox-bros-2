@@ -1,7 +1,7 @@
 ---
 title: "How The Freeze Drying Process Works"
 excerpt: "Freeze-drying, also known as lyophilization, is a preservation method that removes water from food or other perishable materials through a combination of freezing and sublimation, the process of transitioning from a solid to a gas without passing through a liquid state."
-publishDate: "2023-01-26T16:39:36.050Z"
+publishDate: "2023-01-25T16:39:36.050Z"
 image: "https://i1.wp.com/practicalselfreliance.com/wp-content/uploads/2021/08/Freeze-Dried-Food.jpg?fit=1200%2C800&ssl=1"
 category: "Informational"
 author: "Cayden Moxley"
