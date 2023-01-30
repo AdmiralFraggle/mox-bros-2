@@ -16,7 +16,9 @@ The Moxley brothers have always had an entrepreneurial leaning. From the time th
 ## Cayden:
 #### Co-owner & Head of Operations
 <img src="https://www.sommerlawn.com/assets/cayden.77349521_ZPToM6.png" alt="drawing" width="200"/>
-Cayden is the main decision maker of the operation. He loves to empower his younger brothers by helping them create systems to offer great products to their customers, better their communities, and turn a profit while doing it. 
+
+# 
+Cayden is the main decision maker of the operation. He loves to empower his younger brothers by helping them create systems to offer great products to their customers, better their communities, and turn a profit while doing it. Cayden is also the owner of [Sommer Lawn & Landscape](https://www.sommerlawn.com/)
 
 ## Spencer:
 #### Co-owner & Head of Sales

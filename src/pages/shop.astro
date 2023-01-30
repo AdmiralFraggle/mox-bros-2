@@ -1,0 +1,38 @@
+---
+import Container from "@components/container.astro";
+import Cta from "@components/cta.astro";
+import Features from "@components/features.astro";
+import Footer from "@components/footer.astro";
+import Hero from "@components/hero.astro";
+import Logos from "@components/logos.astro";
+import Layout from "@layouts/Layout.astro";
+---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F648M22LPH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F648M22LPH');
+</script>
+
+<Layout title="Candy">
+  <Container>
+    <div>
+      <h1
+        class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight xl:tracking-tighter">
+        Store
+      </h1>
+      <p class="text-lg mt-4 text-slate-600 max-w-xl">
+        THIS IS A PROTOTYPE STORE.<wbr /> NO POS SYSTEM OR SALES ACTIVE
+      </p>
+      <div class="mt-6 flex flex-col sm:flex-row gap-3">
+    <div id="my-store-84146787"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?84146787&data_platform=code&data_date=2023-01-30" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-84146787");</script>
+</div>
+    
+  
+  </Container>
+</Layout>
