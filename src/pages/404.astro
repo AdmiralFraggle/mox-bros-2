@@ -1,0 +1,33 @@
+---
+import Container from "@components/container.astro";
+import Cta from "@components/cta.astro";
+import Features from "@components/features.astro";
+import Footer from "@components/footer.astro";
+import Hero from "@components/hero.astro";
+import Logos from "@components/logos.astro";
+import Layout from "@layouts/Layout.astro";
+---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F648M22LPH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F648M22LPH');
+</script>
+
+<Layout title="Candy">
+  <Container>
+    <div>
+      <h1
+        class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight xl:tracking-tighter">
+        404 Page Not found
+      </h1>
+      <p class="text-lg mt-4 text-slate-600 max-w-xl">
+        Unfortunately you have typed in a url page that does not exsist!<wbr />
+      </p>
+    
+  
+  </Container>
+</Layout>
